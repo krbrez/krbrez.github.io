@@ -2,7 +2,8 @@
 .header {
     text-align: center;
     background-color: #ff99cc;
-    color: white;
+    color: black;
+    padding: 80px;
 }
 
 /* Increase the font size of the h1 element */
