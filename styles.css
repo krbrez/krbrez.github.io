@@ -1,0 +1,11 @@
+/* Style the header */
+.header {
+    text-align: center;
+    background-color: #ff99cc;
+    color: white;
+}
+
+/* Increase the font size of the h1 element */
+.header h1 {
+    font-size: 80px;
+}
